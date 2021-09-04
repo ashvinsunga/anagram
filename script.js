@@ -1,3 +1,7 @@
+//THE GOAL OF THIS FUNCTION
+//This function accepts two arguments
+// Check if 2nd string is an anagram of the first 
+
 function isAnagram(str1, str2){
     //Not equal length of chars means not Anagram
     if (str1.length !== str2.length){
